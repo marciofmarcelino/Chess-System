@@ -1,5 +1,6 @@
 package application;
 
+import java.io.IOException;
 import java.util.Arrays;
 import java.util.InputMismatchException;
 import java.util.List;
@@ -38,7 +39,8 @@ public class UI {
 		System.out.print("\033[H\033[2J");
 		System.out.flush();
 	}
-
+	
+	
 	public static ChessPosition readChessPosition(Scanner sc) {
 		try {
 			String s = sc.nextLine();
@@ -51,6 +53,9 @@ public class UI {
 
 	}
 
+
+	
+	
 	public static void printMatch(ChessMatch chessMatch, List<ChessPiece> captured) {
 		printBoard(chessMatch.getPieces());
 		System.out.println();
