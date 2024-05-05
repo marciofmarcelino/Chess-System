@@ -10,7 +10,7 @@ Este é um projeto de um sistema de xadrez em Java desenvolvido como parte do ap
 - **Downcasting/upcasting**
 - **Sobrescrita**
 
-##Gameplay
+## Gameplay
 
 <p align="center">
 <img width="460" height="400" src="src/images/gameplay.gif">
