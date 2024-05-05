@@ -1,15 +1,20 @@
 # ChessSystem em Java
 
 Este é um projeto de um sistema de xadrez em Java desenvolvido como parte do aprendizado dos conceitos de Programação Orientada a Objetos (POO):
-- **herança**
-- **encapsulamento**
-- **polimorfismo**
-- **tratamento de exceções**
-- **sobregarga**
-- **construtores**
-- **downcasting/upcasting**
-- **sobrescrita**
+- **Herança**
+- **Encapsulamento**
+- **Polimorfismo**
+- **Tratamento de exceções**
+- **Sobregarga**
+- **Construtores**
+- **Downcasting/upcasting**
+- **Sobrescrita**
 
+##Gameplay
+
+<p align="center">
+<img width="460" height="400" src="src/images/gameplay.gif">
+</p>
 
 ## Funcionalidades
 
